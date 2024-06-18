@@ -1,0 +1,1 @@
+将tcuconfig.db   拷贝至 /mnt/nandflash/app/目录重启即可。
